@@ -1,0 +1,68 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+body {
+  background: linear-gradient(180deg, #05060f, #0b1224);
+  color: #fff;
+}
+
+/* HERO */
+.hero {
+  padding: 50px 20px;
+  text-align: center;
+}
+
+.hero h1 {
+  font-size: 32px;
+  margin-bottom: 10px;
+}
+
+.hero p {
+  color: #b0c7ff;
+  margin-bottom: 20px;
+}
+
+.hero img {
+  width: 250px;
+  border-radius: 12px;
+}
+
+/* CARDS */
+section {
+  padding: 30px 15px;
+}
+
+.card {
+  background: rgba(255,255,255,0.06);
+  border-radius: 18px;
+  padding: 22px;
+  margin-bottom: 22px;
+  box-shadow: 0 0 30px rgba(0,0,0,0.4);
+  backdrop-filter: blur(15px);
+  transition: 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+}
+
+/* LIST */
+ul {
+  list-style: none;
+}
+
+ul li {
+  padding: 8px 0;
+}
+
+/* FOOTER */
+footer {
+  text-align: center;
+  padding: 15px;
+  color: #aaa;
+  font-size: 14px;
+}
