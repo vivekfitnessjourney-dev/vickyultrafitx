@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vicky Ultra Fit</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- HERO SECTION -->
+<div class="hero">
+  <h1>Vicky Ultra Fit</h1>
+  <p>Discipline • Growth • Real Transformation 💪</p>
+  <img src="images/fitness1.jpg" alt="Fitness Image">
+</div>
+
+<!-- ABOUT SECTION -->
+<section id="about">
+  <div class="card">
+    <h2>About Me</h2>
+    <p>Hi, I'm Vicky. This website shows my real fitness journey, from beginner to strong 💪</p>
+  </div>
+</section>
+
+<!-- WORKOUT SECTION -->
+<section id="workout">
+  <div class="card">
+    <h2>Workouts</h2>
+    <ul>
+      <li>🔥 Daily Running</li>
+      <li>💪 Home Workout</li>
+      <li>🥗 Fat Loss Tips</li>
+    </ul>
+  </div>
+</section>
+
+<!-- CONTACT SECTION -->
+<section id="contact">
+  <div class="card">
+    <h2>Contact</h2>
+    <p>YouTube: <a href="https://youtube.com/@vicky_ultrafitx?si=yu_Wd0prHDnQ4B3o" target="_blank">Vicky Ultra Fit</a></p>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer>
+  <p>© 2025 Vicky Ultra Fit</p>
+</footer>
+
+</body>
+</html>se
